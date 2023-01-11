@@ -1,19 +1,16 @@
 ### Hi there 👋
 
-<!--
-**micahchoo/micahchoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ... [Awesome Digital History of South Asia](https://micahchoo.github.io/awesome-digital-history-South-Asia/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 ## Hi, My name is Micah  
@@ -46,13 +43,6 @@ What are three thing I think everyone should read?*
 - [Design Beku](https://designbeku.in) - Design Beku is a multidisciplinary collective working in the intersections of design, technology, human rights and urban design reimagining new ways of working with care   
     *- I help with documentation, research work, admin work and maintenance*  
 
-### 
----
-created: 2023-01-10T21:46:00 (UTC -08:00)
-tags: []
-source: https://khattamicah.xyz/my-projects-or-things-i-made
-author: 
----
 
 ### My projects or things i made — the sourness of study - khattamicah.xyz/
 ---
