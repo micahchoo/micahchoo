@@ -12,7 +12,7 @@
 
 ## Hi, My name is Micah  
 
->I work with various collectives learning to nurture conversations, efforts and people. I do this through creative making and facilitating cross-conversations. I work with these collectives in the domains of open community technology(_[Janastu,](https://open.janastu.org/)_) , human rights in the inclusive digital(_[Design Beku](https://designbeku.in/)_), art-based design practice(Agamashaala), archival, and annotation(_[Milli](https://www.milli.link/)_) and creative place-based research undertaken in the Dakkhani region  [Living Labs Network and Forum]((https://linktr.ee/llnaf)._
+>I work with various collectives learning to nurture conversations, efforts and people. I do this through creative making and facilitating cross-conversations. I work with these collectives in the domains of open community technology(_[Janastu,](https://open.janastu.org/)_) , human rights in the inclusive digital(_[Design Beku](https://designbeku.in/)_), art-based design practice(Agamashaala), archival, and annotation(_[Milli](https://www.milli.link/)_) and creative place-based research undertaken in the Dakkhani region  [Living Labs Network and Forum](https://linktr.ee/llnaf)._
   
 What kind of change am I excited by?
 
@@ -41,7 +41,7 @@ What are three thing I think everyone should read?*
     *- I help with documentation, research work, admin work and maintenance*  
 
 
-### My projects or things i made — the sourness of study - khattamicah.xyz/
+### My projects or things i made — the sourness of study - https://khattamicah.xyz/
 ---
 -   [Bose and Food in India](https://khattamicah.xyz/bose-and-food-in-india)
 -   [The Imposter Among Us](https://khattamicah.xyz/the-imposter-among-us)
