@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 
 ## Hi, My name is Micah  
-  
-  
 
 >I work with various collectives learning to nurture conversations, efforts and people. I do this through creative making and facilitating cross-conversations. I work with these collectives in the domains of open community technology(_[Janastu,](https://open.janastu.org/)_) , human rights in the inclusive digital(_[Design Beku](https://designbeku.in/)_), art-based design practice(Agamashaala), archival, and annotation(_[Milli](https://www.milli.link/)_) and creative place-based research undertaken in the Dakkhani region  [Living Labs Network and Forum]((https://linktr.ee/llnaf)._
   
@@ -43,7 +41,34 @@ What are three thing I think everyone should read?*
   
 ### The collectives and people I work with  
   
--  [Living Labs Network and Forum]((https://linktr.ee/llnaf) - Living Labs is transdisciplinary research network in the Dakkhani Region. We collectively engage in a creative place-based research and design practice. Looking for alternative ways to look at development especially through the ideas of specificity and inheritance.  
+-  [Living Labs Network and Forum](https://linktr.ee/llnaf) - Living Labs is transdisciplinary research network in the Dakkhani Region. We collectively engage in a creative place-based research and design practice. Looking for alternative ways to look at development especially through the ideas of specificity and inheritance.  
     *- I help with admin work, research on ground, talking to partners, tooling, publishing and maintenance*  
 - [Design Beku](https://designbeku.in) - Design Beku is a multidisciplinary collective working in the intersections of design, technology, human rights and urban design reimagining new ways of working with care   
     *- I help with documentation, research work, admin work and maintenance*  
+
+### 
+---
+created: 2023-01-10T21:46:00 (UTC -08:00)
+tags: []
+source: https://khattamicah.xyz/my-projects-or-things-i-made
+author: 
+---
+
+### My projects or things i made — the sourness of study - khattamicah.xyz/
+---
+-   [Bose and Food in India](https://khattamicah.xyz/bose-and-food-in-india)
+-   [The Imposter Among Us](https://khattamicah.xyz/the-imposter-among-us)
+-   [The Disenfranchisement of Adivasis in Kerala](https://khattamicah.xyz/the-disenfranchisement-of-adivasis-in-kerala)
+-   [What is Innovation for India](https://khattamicah.xyz/what-is-innovation-for-india)
+-   [Trustworthy AI - A Sensory Firewall](https://khattamicah.xyz/trustworthy-ai-a-sensory-firewall)
+-   [Srishti SDB Studio - Reading List](https://khattamicah.xyz/srishti-sdb-studio-reading-list)
+-   [Carefull Collectives and their Care Practices](https://khattamicah.xyz/carefull-collectives-and-their-care-practices)
+-   [Invisible Cities - Koramangala](https://khattamicah.xyz/invisible-cities-koramangala)
+-   [Speculative Storytelling in Wayanad](https://khattamicah.xyz/speculative-storytelling-in-wayanad)
+-   [Condom Ads- A Commentary](https://khattamicah.xyz/condom-ads-a-commentary)
+-   [Making The Invisible Visible Around An RO Plant](https://khattamicah.xyz/making-the-invisible-visible-around-an-ro-plant)
+-   [Innovation For Dummies - A podcast](https://khattamicah.xyz/innovation-for-dummies-a-podcast)
+-   [Compost Magazine - Technofutures from Bidar](https://khattamicah.xyz/compost-magazine-technofutures-from-bidar)
+-   [Designer’s Ace](https://khattamicah.xyz/designer-s-ace)
+-   [Carpooling Unalone - Karwaan](https://khattamicah.xyz/carpooling-unalone-karwaan)
+
