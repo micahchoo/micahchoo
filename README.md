@@ -43,19 +43,12 @@ What are three thing I think everyone should read?*
 
 ### My projects or things i made — the sourness of study - https://khattamicah.xyz/
 ---
--   [Bose and Food in India](https://khattamicah.xyz/bose-and-food-in-india)
 -   [The Imposter Among Us](https://khattamicah.xyz/the-imposter-among-us)
 -   [The Disenfranchisement of Adivasis in Kerala](https://khattamicah.xyz/the-disenfranchisement-of-adivasis-in-kerala)
--   [What is Innovation for India](https://khattamicah.xyz/what-is-innovation-for-india)
--   [Trustworthy AI - A Sensory Firewall](https://khattamicah.xyz/trustworthy-ai-a-sensory-firewall)
 -   [Srishti SDB Studio - Reading List](https://khattamicah.xyz/srishti-sdb-studio-reading-list)
 -   [Carefull Collectives and their Care Practices](https://khattamicah.xyz/carefull-collectives-and-their-care-practices)
 -   [Invisible Cities - Koramangala](https://khattamicah.xyz/invisible-cities-koramangala)
 -   [Speculative Storytelling in Wayanad](https://khattamicah.xyz/speculative-storytelling-in-wayanad)
--   [Condom Ads- A Commentary](https://khattamicah.xyz/condom-ads-a-commentary)
--   [Making The Invisible Visible Around An RO Plant](https://khattamicah.xyz/making-the-invisible-visible-around-an-ro-plant)
 -   [Innovation For Dummies - A podcast](https://khattamicah.xyz/innovation-for-dummies-a-podcast)
 -   [Compost Magazine - Technofutures from Bidar](https://khattamicah.xyz/compost-magazine-technofutures-from-bidar)
--   [Designer’s Ace](https://khattamicah.xyz/designer-s-ace)
--   [Carpooling Unalone - Karwaan](https://khattamicah.xyz/carpooling-unalone-karwaan)
 
