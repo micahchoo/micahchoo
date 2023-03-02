@@ -22,14 +22,15 @@ What do I bring to the table?
 
 >I am a writer, designer and artist. I enjoy making digital knowledge bases for these collectives and efforts. I am also learning to dabble in code so that I can make in a bigger variety of ways.
 
+
 What strengths do I play to?
 
 >I have always worked on multiple projects in many different places, recommending myself to be a collective hire between different collectives. I am really good at understanding the nature of different types of information and derive enjoyment from organising and representing it in different ways. I am a slow learner, even though i do understand things faster, i do wait till i have internalised my learnings, this has helped me form my political orientations quite a bit
 
-What are three thing I think everyone should read?*
+What are three thing I think everyone should read?
 1. [Feral Atlas](https://feralatlas.supdigital.org/?cd=true&rr=true&cdex=true)
 2. [Architecture’s Scaffolds,](https://www.e-flux.com/architecture/overgrowth/221616/architecture-s-scaffolds/)
-3. [Fragile Connections | Living a Feminist Life | Books Gateway | Duke University Press](https://read.dukeupress.edu/books/book/1933/chapter-abstract/191601/Fragile-Connections?redirectedFrom=fulltext)
+3. [Fragile Connections - Living a Feminist Life](https://read.dukeupress.edu/books/book/1933/chapter-abstract/191601/Fragile-Connections?redirectedFrom=fulltext)
 
 
   
@@ -41,14 +42,16 @@ What are three thing I think everyone should read?*
     *- I help with documentation, research work, admin work and maintenance*  
 
 
-### My projects or things i made — the sourness of study - https://khattamicah.xyz/
+### My projects or things I made — the sourness of study - https://khattamicah.xyz/
 ---
--   [The Imposter Among Us](https://khattamicah.xyz/the-imposter-among-us)
--   [The Disenfranchisement of Adivasis in Kerala](https://khattamicah.xyz/the-disenfranchisement-of-adivasis-in-kerala)
--   [Srishti SDB Studio - Reading List](https://khattamicah.xyz/srishti-sdb-studio-reading-list)
--   [Carefull Collectives and their Care Practices](https://khattamicah.xyz/carefull-collectives-and-their-care-practices)
--   [Invisible Cities - Koramangala](https://khattamicah.xyz/invisible-cities-koramangala)
--   [Speculative Storytelling in Wayanad](https://khattamicah.xyz/speculative-storytelling-in-wayanad)
--   [Innovation For Dummies - A podcast](https://khattamicah.xyz/innovation-for-dummies-a-podcast)
--   [Compost Magazine - Technofutures from Bidar](https://khattamicah.xyz/compost-magazine-technofutures-from-bidar)
-
+-   [The Imposter Among Us](https://khattamicah.xyz/the-imposter-among-us) #tech #streaming #twitch #misinformation #politics
+-   [The Disenfranchisement of Adivasis in Kerala](https://khattamicah.xyz/the-disenfranchisement-of-adivasis-in-kerala) #ethnography #literaturereview 
+-   [Srishti SDB Studio - Reading List](https://khattamicah.xyz/srishti-sdb-studio-reading-list) #readinglist #teaching
+-   [Carefull Collectives and their Care Practices](https://khattamicah.xyz/carefull-collectives-and-their-care-practices) #research #anthropology #carepractices
+-   [Invisible Cities - Koramangala](https://khattamicah.xyz/invisible-cities-koramangala) #poetry #place
+-   [Speculative Storytelling in Wayanad](https://khattamicah.xyz/speculative-storytelling-in-wayanad) #imaginations #place #design
+-   [Innovation For Dummies - A podcast](https://khattamicah.xyz/innovation-for-dummies-a-podcast) #podcast #innovation #socialdesign
+-   [Compost Magazine - Technofutures from Bidar](https://khattamicah.xyz/compost-magazine-technofutures-from-bidar) #technology #commons #communitynetworks
+-   [Jouneys, Dreams and Everything in Between](https://blog.janastu.org/journeys-dreams-and-everything-in-between/) ##technology #commons #communitynetworks
+-   [Mapping migratory routes of pastoralists across India  Janastu - Servelots Blog - blog.janastu.org](https://blog.janastu.org/mapping-migratory-routes-of-pastoralists/) #technology #commons #mapping #migration
+-   [A case for a Webinar Pi  Janastu - Servelots Blog - blog.janastu.org](https://blog.janastu.org/a-case-for-a-webinar-pi/) #technology #commons #communitynetworks
