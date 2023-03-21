@@ -42,7 +42,7 @@ What are three thing I think everyone should read?
     *- I help with documentation, research work, admin work and maintenance*  
 
 
-### My projects or things I made — the sourness of study - https://khattamicah.xyz/
+### My projects or Blog — the sourness of study - https://khattamicah.xyz/
 ---
 -   [The Imposter Among Us](https://khattamicah.xyz/the-imposter-among-us) #tech #streaming #twitch #misinformation #politics
 -   [The Disenfranchisement of Adivasis in Kerala](https://khattamicah.xyz/the-disenfranchisement-of-adivasis-in-kerala) #ethnography #literaturereview 
