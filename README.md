@@ -61,8 +61,8 @@
 #### Art
 -   [Speculative Storytelling in Wayanad](https://khattamicah.xyz/speculative-storytelling-in-wayanad) #imaginations #place #design
 -   [Compost Magazine - Technofutures from Bidar](https://khattamicah.xyz/compost-magazine-technofutures-from-bidar) #technology #commons #communitynetworks
--   [Fever Dream of the Folder Sorter · micahchooDownloads-Folder-Sorter Wiki](https://github.com/micahchoo/Downloads-Folder-Sorter/wiki/Fever-Dream-of-the-Folder-Sorter)
--   [Micah Alex  digital art - khattamicah.tumblr.com](https://khattamicah.tumblr.com/tagged/digital%20art)
+-   [Fever Dream of the Folder Sorter · micahchooDownloads-Folder-Sorter Wiki](https://github.com/micahchoo/Downloads-Folder-Sorter/wiki/Fever-Dream-of-the-Folder-Sorter) #digitalart #repoart #performanceart
+-   [Micah Alex  digital art - khattamicah.tumblr.com](https://khattamicah.tumblr.com/tagged/digital%20art) #digitalopainting
 
 #### Curations
 -   [Digital History of South Asia ](https://github.com/micahchoo/awesome-digital-history-South-Asia) #archives #southasia
