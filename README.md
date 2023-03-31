@@ -46,7 +46,7 @@
 #### Writing
 -   [The Disenfranchisement of Adivasis in Kerala](https://khattamicah.xyz/the-disenfranchisement-of-adivasis-in-kerala) #ethnography #literaturereview 
 -   [Carefull Collectives and their Care Practices](https://khattamicah.xyz/carefull-collectives-and-their-care-practices) #research #anthropology #carepractices
--   [Compost Magazine - Technofutures from Bidar](https://khattamicah.xyz/compost-magazine-technofutures-from-bidar) #technology #commons #communitynetworks
+-   [Compost Magazine - Technofutures from Bidar](https://one.compost.digital/fertile-technofutures-from-bidar/) #technology #commons #communitynetworks
 -   [Invisible Cities - Koramangala](https://khattamicah.xyz/invisible-cities-koramangala) #poetry #place
 -   [Jouneys, Dreams and Everything in Between](https://blog.janastu.org/journeys-dreams-and-everything-in-between/) ##technology #commons #communitynetworks
 -   [Mapping migratory routes of pastoralists across India  Janastu - Servelots Blog - blog.janastu.org](https://blog.janastu.org/mapping-migratory-routes-of-pastoralists/) #technology #commons #mapping #migration
@@ -55,12 +55,12 @@
 -   [Learning from COWs Community Owned Wifi-Mesh - Branch - branch.climateaction.tech](https://branch.climateaction.tech/issues/issue-4/cows/) #climateaction
 
 #### Code Dabbler
--   [Compost Magazine - Technofutures from Bidar](https://khattamicah.xyz/compost-magazine-technofutures-from-bidar) #technology #commons #communitynetworks
+-   [Compost Magazine - Technofutures from Bidar](https://one.compost.digital/fertile-technofutures-from-bidar/) #technology #commons #communitynetworks
 -   [Downloads Folder Sorter](https://github.com/micahchoo/Downloads-Folder-Sorter) #aicode
 
 #### Art
 -   [Speculative Storytelling in Wayanad](https://khattamicah.xyz/speculative-storytelling-in-wayanad) #imaginations #place #design
--   [Compost Magazine - Technofutures from Bidar](https://khattamicah.xyz/compost-magazine-technofutures-from-bidar) #technology #commons #communitynetworks
+-   [Compost Magazine - Technofutures from Bidar](https://one.compost.digital/fertile-technofutures-from-bidar/) #technology #commons #communitynetworks
 -   [Fever Dream of the Folder Sorter · micahchooDownloads-Folder-Sorter Wiki](https://github.com/micahchoo/Downloads-Folder-Sorter/wiki/Fever-Dream-of-the-Folder-Sorter) #digitalart #repoart #performanceart
 -   [Micah Alex  digital art - khattamicah.tumblr.com](https://khattamicah.tumblr.com/tagged/digital%20art) #digitalopainting
 
