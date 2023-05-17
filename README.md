@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on -[Fever Dream of the Folder Sorter](https://github.com/micahchoo/Downloads-Folder-Sorter/wiki/Fever-Dream-of-the-Folder-Sorter)
+- 🔭 I’m currently working on -[Open and Collaborative Knowledge](https://github.com/micahchoo/Public-Making)
 - 🌱 I’m currently learning - HTML+CSS, Making my PKM work for me
 
 
