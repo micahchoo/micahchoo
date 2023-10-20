@@ -22,7 +22,6 @@
 -   [My UX design portfolio](https://khattamicah.tumblr.com/UXDportfolio)
 
 #### Research and Writing
-Sure, here are the links with the tags enclosed in backticks:
 
 - [The Disenfranchisement of Adivasis in Kerala](https://khattamicah.xyz/the-disenfranchisement-of-adivasis-in-kerala) `#ethnography` `#literaturereview`
 - [Carefull Collectives and their Care Practices](https://khattamicah.xyz/carefull-collectives-and-their-care-practices) `#research` `#anthropology` `#carepractices`
